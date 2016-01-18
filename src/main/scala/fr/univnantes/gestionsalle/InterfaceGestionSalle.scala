@@ -1,0 +1,5 @@
+
+
+class InterfaceGestionSalle extends Interface {
+  
+}
